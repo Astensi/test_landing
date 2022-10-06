@@ -138,9 +138,11 @@ li {
     font-size: 20px;
 }
 
-.popupMenu>ul li {
+.popupMenu > ul li,
+.popupMenu > ul li:nth-child(1) {
     margin:0;
 }
+
 
 .popupMenu.open {
     right: 0;
