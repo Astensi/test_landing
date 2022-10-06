@@ -138,7 +138,7 @@ li {
     font-size: 20px;
 }
 
-.popupMenu li {
+.popupMenu>ul li {
     margin:0;
 }
 
