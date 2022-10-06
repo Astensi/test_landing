@@ -171,7 +171,7 @@ h1 {
     font-family: 'Raleway-SemiBold', sans-serif;
     font-size: 16px;
     line-height: 30px;
-    margin: 7px 0 48px;
+    margin: 7px 0 49px;
 }
 
 .info__text a {
@@ -214,7 +214,7 @@ h1 {
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 36px 0 0;
+    padding: 37px 0 0;
     margin: 7px auto 0;
     height: 197px;
 }
@@ -280,7 +280,7 @@ h1 {
 }
 
 .ability__content {
-    width: 62.563; 
+    width: 100%; 
     display: flex;
     flex-direction: column;
 }
@@ -662,9 +662,9 @@ input {
 }
 
 textarea {
-    height: 96px;
+    height: 97px;
     font-family: 'Raleway-Medium', sans-serif;
-    margin: 13px 0 17px;
+    margin: 13px 0 16px;
 }
 
 textarea:focus, input:focus {
@@ -744,7 +744,7 @@ footer {
 }
 
 .twitter {
-   /* width: 25.955%; */
+    width: 25.955%;
     height: 295px;
 }
 
